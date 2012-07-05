@@ -1,0 +1,5 @@
+useDynLib(sGPCA)
+export(sgpca)
+export(gpca)
+export(distLaplacian)
+export(laplacian)
